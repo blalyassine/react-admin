@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "post twoO",
+      "body": "this is the post body",
+      "publishedAt": "2021-10-01"
+    },
+    {
+      "id": "3",
+      "title": "post three",
+      "body": "this is the post body",
+      "publishedAt": "10/01/2021"
+    },
+    {
+      "id": "EET_JZn"
+    },
+    {
+      "title": "aaa",
+      "body": "aaasqqqs",
+      "publishedAt": "10/01/2021",
+      "id": "dZHjOge"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "anas konan",
+      "email": "anas@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "meryem konan",
+      "email": "meryem@gmail.com"
+    },
+    {
+      "name": "blal",
+      "email": "bilal20@gmail.com",
+      "id": "bFFWoZF"
+    }
+  ]
+}
